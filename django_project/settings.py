@@ -25,7 +25,8 @@ SECRET_KEY = 'trk-7z6iwc97=xf*ccgyqwi5q+5urkn6a)4w@d$_q3$6s!#3e='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sammigirlblog.com',
+                 'localhost']
 
 
 # Application definition
